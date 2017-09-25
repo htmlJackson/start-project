@@ -1,0 +1,21 @@
+{
+  "name": "Project",
+  "version": "1.0.0",
+  "description": "My project",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2",
+    "gulp-plumber": "^1.1.0",
+    "less-plugin-autoprefix": "^1.5.1"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "Evgeny Ber",
+  "license": "ISC"
+}

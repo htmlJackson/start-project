@@ -1,0 +1,21 @@
+.header {
+  background: lightblue;
+}
+.header h1 {
+  color: red;
+}
+.main {
+  background: black;
+}
+.main p {
+  color: #fff;
+}
+.footer {
+  background: lightyellow;
+}
+.footer p {
+  font-size: 22px;
+  color: red;
+  border: 5px solid purple;
+  padding: 15px;
+}
